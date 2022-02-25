@@ -1,0 +1,10 @@
+span{
+  height: 2px;
+  width: 2px;
+  background: #000;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  will-change: transform;
+}
